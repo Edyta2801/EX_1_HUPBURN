@@ -1,6 +1,5 @@
 Opis zadania
 Zadanie będzie polegało na stworzeniu podstawowej strony w HTML, podążając za instrukcjami poniżej. Strona może być poświęcona Twojemu ulubionemu aktorowi, sportowcowi, filmowi, książce, grze... temat możesz wybrać samodzielnie!
-
 Do pliku index.html w edytorze wstaw podstawową strukturę HTML, omówioną powyżej. Skasuj linię zawierającą tag <link>: nie będzie ona nam na razie potrzebna.
 Dodajmy teraz treść strony pomiędzy tagami <body> a </body> (jak pamiętasz, to właśnie tam umieszczamy całą zawartość naszej witryny). Zacznij od dodania nagłówka pierwszego poziomu z tytułem strony, np. imieniem i nazwiskiem aktora czy tytułem filmu.
 Stwórz 2 akapity tekstu i nad każdym z nich nagłówek poziomu trzeciego.
