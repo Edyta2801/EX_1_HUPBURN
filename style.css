@@ -16,10 +16,19 @@ body {
 }
 
 .container {
-    max-width: 900px 0 auto;
+    max-width: 900px;
+    margin: 0 auto;
 }
 
-#img {
+img {
     display: inline-block;
-    max-width: 48%;
+    min-width: 48%; 
+}
+
+.info {
+    background: #c8d6e5;
+}
+
+.links {
+    color: #ee5253;
 }
