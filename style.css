@@ -10,7 +10,7 @@ body {
     text-align: center;
 }
 
-.section {
+section {
     padding-top: 36px;
     padding-bottom: 36px;
 }
@@ -22,14 +22,13 @@ body {
 
 img {
     display: inline-block;
-    min-width: 48%; 
+    min-width: 48%;
 }
 
 .info {
     background: #c8d6e5;
 }
 
-ul{
+li a {
     color: #ee5253;
-    
 }
