@@ -5,6 +5,21 @@ body {
 .hero {
     background: #222f3e;
     color: #ffffff;
-    padding: 50px 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
     text-align: center;
+}
+
+.section {
+    padding-top: 36px;
+    padding-bottom: 36px;
+}
+
+.container {
+    max-width: 900px 0 auto;
+}
+
+#img {
+    display: inline-block;
+    max-width: 48%;
 }
