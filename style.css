@@ -22,9 +22,11 @@ section {
 
 .photo {
     display: inline-block;
-    height: auto;
-    min-width: 48%;
-    vertical-align: -220%;
+    max-width: 48%;
+    vertical-align: -webkit-baseline-middle;
+}
+
+.gallery {
     text-align: center;
 }
 
