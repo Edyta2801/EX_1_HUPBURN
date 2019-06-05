@@ -20,9 +20,12 @@ section {
     margin: 0 auto;
 }
 
-img {
+.photo {
     display: inline-block;
+    height: auto;
     min-width: 48%;
+    vertical-align: -220%;
+    text-align: center;
 }
 
 .info {
